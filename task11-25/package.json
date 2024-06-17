@@ -1,0 +1,11 @@
+{
+  "name": "task11-25",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
